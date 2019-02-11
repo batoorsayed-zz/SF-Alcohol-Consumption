@@ -27,5 +27,5 @@ Step 2: If you have ran every analysis in R.Script, Shiny should just load up wh
 in Global Environment created by R.script.
 
 
-ENJOY MY FIRST TEXT ANALYSIS PROJECT.
-FEEDBACK IS ENCOURAGED.
+#ENJOY MY FIRST TEXT ANALYSIS PROJECT.
+#FEEDBACK IS ENCOURAGED.
